@@ -30,7 +30,7 @@ Here are some ideas to get you started:
    <br/>
  
 #### :pencil2: Study log
- <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=force0467)](https://solved.ac/force0467/)-->
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=force0467)](https://solved.ac/force0467/)
   <br/>
   
 ![ul github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ul88&show_icons=true&theme=tokyonight)
