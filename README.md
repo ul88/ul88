@@ -25,9 +25,15 @@ Here are some ideas to get you started:
   <br/>
   <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/c++-007396?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+ <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ <img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  
+   <br/>
+   
+   Studying framework
+   <br/>
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
    <br/>
    <br/>
  
