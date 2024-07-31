@@ -21,11 +21,12 @@ Here are some ideas to get you started:
   
  <br/>
  <br/>
- I'm Studying a C/C++
+ I am mainly studying C/C++.
   <br/>
   <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white">
  <img src="https://img.shields.io/badge/c++-007396?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  
    <br/>
    <br/>
