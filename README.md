@@ -23,15 +23,16 @@ Here are some ideas to get you started:
  <br/>
  I am mainly studying C/C++.
   <br/>
-  <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white">
- <img src="https://img.shields.io/badge/c++-007396?style=for-the-badge&logo=cplusplus&logoColor=white">
- <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg">
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg">
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java2.svg">
  
    <br/>
    
    Studying framework
    <br/>
    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt1.svg">
    <br/>
    <br/>
  
